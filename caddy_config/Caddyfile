@@ -2,7 +2,7 @@
   email you@darius-galu.com
 }
 
-{$DOMAIN} {
+n8n.darius-galu.com {
   encode gzip
   reverse_proxy n8n:5678
 }
