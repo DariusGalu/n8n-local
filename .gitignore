@@ -1,0 +1,6 @@
+# don’t commit secrets
+.env
+
+# macOS / editors
+.DS_Store
+*.swp
